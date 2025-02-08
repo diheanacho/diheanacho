@@ -1,6 +1,7 @@
 
 # Hello, I'm Davis Iheanacho
-<a href="(https://www.linkedin.com/in/davis-iheanacho-32b6b8142/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/davis-iheanacho-32b6b8142/)
 
 Welcome to my Github :) I’m an aspiring cybersecurity analyst with a strong foundation in Security Operations, Penetration Testing, Cloud Security, and Network Defense. I’m passionate about protecting organizations from cyber threats, and I focus on identifying vulnerabilities and strengthening digital defenses through both proactive and reactive measures.
 
