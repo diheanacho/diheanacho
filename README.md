@@ -9,33 +9,48 @@ On this GitHub, you'll find a collection of projects that showcase my hands-on w
 
 ------
 
-Penetration Testing: 
+                                                Penetration Testing: 
+
 I simulate attacks on web applications, networks, and systems using industry-standard tools like Kali Linux, Burp Suite, and Metasploit. I focus on finding vulnerabilities before malicious actors do and providing actionable remediations.
 
-Security Audits & Network Analysis: I perform comprehensive security audits to evaluate network structures, configurations, and access controls. By identifying weaknesses, I help improve overall security posture.
+                                           Security Audits & Network Analysis: 
 
-Cloud Platform Security: I manage and secure cloud infrastructures (AWS, Azure, GCP) with a focus on Identity and Access Management (IAM), network security, and best practices for cloud environments.
+I perform comprehensive security audits to evaluate network structures, configurations, and access controls. By identifying weaknesses, I help improve overall security posture.
 
-Linux Security & File Management: I manage file permissions using Linux commands, ensuring sensitive data is protected from unauthorized access.
+                                                Cloud Platform Security: 
 
-SQL Injection Prevention: I apply advanced filtering techniques to SQL queries, preventing vulnerabilities like SQL injection and improving database integrity.
+I manage and secure cloud infrastructures (AWS, Azure, GCP) with a focus on Identity and Access Management (IAM), network security, and best practices for cloud environments.
 
-Vulnerability Identification for Small Businesses: I analyze the security needs of small businesses, identify potential vulnerabilities, and offer tailored security strategies to protect assets.
+                                             Linux Security & File Management: 
 
-Incident Documentation & Handling: Through incident journals, I document and learn from real-world security events, improving response protocols for future incidents.
+I manage file permissions using Linux commands, ensuring sensitive data is protected from unauthorized access.
 
-Data Parsing for Security Use Cases: I import and parse security-related text files for threat intelligence and reporting, streamlining security data analysis.
+                                                SQL Injection Prevention: 
+
+I apply advanced filtering techniques to SQL queries, preventing vulnerabilities like SQL injection and improving database integrity.
+
+                                   Vulnerability Identification for Small Businesses: 
+
+I analyze the security needs of small businesses, identify potential vulnerabilities, and offer tailored security strategies to protect assets.
+
+                                            Incident Documentation & Handling: 
+
+Through incident journals, I document and learn from real-world security events, improving response protocols for future incidents.
+
+                                            Data Parsing for Security Use Cases: 
+
+I import and parse security-related text files for threat intelligence and reporting, streamlining security data analysis.
 I’m deeply committed to continuous learning and staying ahead of emerging threats by exploring new tools, technologies, and cybersecurity frameworks.
 
 -------
 
-My approach to cybersecurity is rooted in problem-solving, with a strong emphasis on clear communication and collaboration. Whether working on a team or individually, I aim to explain complex technical issues to non-technical stakeholders and contribute to a cohesive, proactive security strategy.
+My approach to cybersecurity is rooted in problem-solving, with a strong emphasis on clear communication and collaboration. Whether working on a team or individually.
 
-Feel free to explore my projects here, and don’t hesitate to connect if you're interested in collaborating or discussing cybersecurity opportunities. I’m excited about contributing to a safer, more secure digital world.
+Feel free to explore my projects here, and don’t hesitate to connect if you're interested in collaborating or discussing cybersecurity opportunities.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Cybersecurity Analyst or Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -81,10 +96,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-● Conducting a security audit
+● Conducting a security audit 
+
 ● Analyzing network structure and security
+
 ● Using Linux commands to manage file permissions
+
 ● Applying filters to SQL queries
+
 ● Identifying vulnerabilities for a small business
+
 ● Documenting incidents with an incident handler’s journal
+
 ● Importing and parsing a text file in a security-related scenario
