@@ -2,9 +2,11 @@
 # Hello, I'm Davis Iheanacho
 <a href="(https://www.linkedin.com/in/davis-iheanacho-32b6b8142/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my Github :) I’m an aspiring cybersecurity analyst with a strong foundation in penetration testing, cloud security, and network defense. I’m passionate about protecting organizations from cyber threats, and I focus on identifying vulnerabilities and strengthening digital defenses through both proactive and reactive measures.
+Welcome to my Github :) I’m an aspiring cybersecurity analyst with a strong foundation in Security Operations, Penetration Testing, Cloud Security, and Network Defense. I’m passionate about protecting organizations from cyber threats, and I focus on identifying vulnerabilities and strengthening digital defenses through both proactive and reactive measures.
 
 On this GitHub, you'll find a collection of projects that showcase my hands-on work across various cybersecurity domains. I take pride in approaching each project with the goal of making meaningful improvements to security systems. Here's a snapshot of my expertise:
+
+------
 
 Penetration Testing: 
 I simulate attacks on web applications, networks, and systems using industry-standard tools like Kali Linux, Burp Suite, and Metasploit. I focus on finding vulnerabilities before malicious actors do and providing actionable remediations.
@@ -22,7 +24,9 @@ Vulnerability Identification for Small Businesses: I analyze the security needs 
 Incident Documentation & Handling: Through incident journals, I document and learn from real-world security events, improving response protocols for future incidents.
 
 Data Parsing for Security Use Cases: I import and parse security-related text files for threat intelligence and reporting, streamlining security data analysis.
-I’m deeply committed to continuous learning and staying ahead of emerging threats by exploring new tools, technologies, and cybersecurity frameworks. Currently, I am focusing on [mention any certifications you’re working on or tools you’re learning] to further enhance my skills.
+I’m deeply committed to continuous learning and staying ahead of emerging threats by exploring new tools, technologies, and cybersecurity frameworks.
+
+-------
 
 My approach to cybersecurity is rooted in problem-solving, with a strong emphasis on clear communication and collaboration. Whether working on a team or individually, I aim to explain complex technical issues to non-technical stakeholders and contribute to a cohesive, proactive security strategy.
 
