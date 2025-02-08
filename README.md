@@ -81,6 +81,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Managing Permissions in a Linux Environment
+● Conducting a security audit
+● Analyzing network structure and security
+● Using Linux commands to manage file permissions
+● Applying filters to SQL queries
+● Identifying vulnerabilities for a small business
+● Documenting incidents with an incident handler’s journal
+● Importing and parsing a text file in a security-related scenario
